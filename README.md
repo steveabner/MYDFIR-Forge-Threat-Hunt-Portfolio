@@ -8,8 +8,8 @@ The purpose of this portfolio is to document my investigative process and demons
 
 ### [The Planet’s Prestige](https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545)
 
-**Platform:** Blue Team Labs Online
-**Category:** Email Investigation
+**Platform:** Blue Team Labs Online<br>
+**Category:** Email Investigation<br>
 **Status:** In Progress
 
 This investigation focuses on analyzing suspicious email evidence, identifying indicators of compromise, documenting findings, and determining what occurred based on the available artifacts.
