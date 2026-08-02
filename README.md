@@ -1,8 +1,8 @@
 # MYDFIR Forge Threat Hunt Portfolio
 
-This repository contains security investigations, threat hunts, and detection projects completed while participating in the MYDFIR Forge community.
+This repository contains security investigations, threat hunts, detection projects, and other hands-on SOC exercises completed while participating in the MYDFIR Forge community.
 
-The purpose of this portfolio is to document my investigative process and demonstrate practical skills in email analysis, threat hunting, evidence collection, incident documentation, and MITRE ATT&CK mapping.
+The purpose of this portfolio is to document my investigative process and demonstrate practical skills in SOC analysis, threat hunting, detection development, evidence collection, incident documentation, and MITRE ATT&CK mapping.
 
 ## Current Project
 
@@ -18,12 +18,14 @@ The completed investigation will be documented in a separate project repository 
 
 ## Skills Practiced
 
-* Email and phishing analysis
+* SOC investigation and analysis
+* Threat hunting
+* Detection development
 * Evidence collection
 * Indicator identification
-* Investigation documentation
-* Threat hunting
+* Incident documentation
 * MITRE ATT&CK mapping
+* Email and phishing analysis
 
 ## Projects
 
