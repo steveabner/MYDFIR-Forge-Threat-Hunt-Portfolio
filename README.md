@@ -31,8 +31,6 @@ The completed investigation will be documented in a separate project repository 
 
 | Project               | Type                | Status      |
 | --------------------- | ------------------- | ----------- |
-| Project                                                                                          | Type                | Status      |
-| ------------------------------------------------------------------------------------------------ | ------------------- | ----------- |
 | [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation) | Email Investigation | In Progress |
 
 
