@@ -6,7 +6,7 @@ The purpose of this portfolio is to document my investigative process and demons
 
 ## Current Project
 
-### [The Planet’s Prestige](https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545)
+### [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation)
 
 **Platform:** Blue Team Labs Online<br>
 **Category:** Email Investigation<br>
