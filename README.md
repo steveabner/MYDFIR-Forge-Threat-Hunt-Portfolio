@@ -1,22 +1,20 @@
 # MYDFIR Forge Threat Hunt Portfolio
 
-This repository contains security investigations, threat hunts, detection projects, and other hands-on SOC exercises completed while participating in the MYDFIR Forge community.
+This repository contains security investigations, threat hunts, detection projects, and other hands-on SOC exercises completed through the MYDFIR Forge community.
 
-The purpose of this portfolio is to document my investigative process and demonstrate practical skills in SOC analysis, threat hunting, detection development, evidence collection, incident documentation, and MITRE ATT&CK mapping.
+The purpose of this portfolio is to document my investigative process and demonstrate practical skills in SOC analysis, threat hunting, detection development, evidence collection, and incident documentation.
 
-## Completed Project
+## Projects
 
-### [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation)
+| Project | Category | Status |
+|---|---|---|
+| [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation) | Email Investigation | Completed |
 
-**Platform:** Blue Team Labs Online<br>
-**Category:** Email Investigation<br>
-**Status:** Completed
+### The Planet’s Prestige
 
-This investigation focuses on analyzing suspicious email evidence, identifying indicators of compromise, documenting findings, and determining what occurred based on the available artifacts.
+This investigation involved analyzing a suspicious email, reviewing email headers, decoding Base64 content, verifying file signatures, examining recovered files, and reviewing document metadata.
 
-The completed investigation is documented in a separate project repository, including the analysis process, screenshots, findings, and supporting evidence.
-
-## Skills Practiced
+**Skills demonstrated:**
 
 - SOC investigation and analysis
 - Email and phishing analysis
@@ -28,12 +26,7 @@ The completed investigation is documented in a separate project repository, incl
 - Indicator identification
 - Incident documentation
 
-## Projects
-
-| Project               | Type                | Status      |
-| --------------------- | ------------------- | ----------- |
-| [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation) | Email Investigation | Completed |
-
+[View the completed investigation](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation)
 
 ---
 
