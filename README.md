@@ -4,34 +4,35 @@ This repository contains security investigations, threat hunts, detection projec
 
 The purpose of this portfolio is to document my investigative process and demonstrate practical skills in SOC analysis, threat hunting, detection development, evidence collection, incident documentation, and MITRE ATT&CK mapping.
 
-## Current Project
+## Completed Project
 
 ### [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation)
 
 **Platform:** Blue Team Labs Online<br>
 **Category:** Email Investigation<br>
-**Status:** In Progress
+**Status:** Completed
 
 This investigation focuses on analyzing suspicious email evidence, identifying indicators of compromise, documenting findings, and determining what occurred based on the available artifacts.
 
-The completed investigation will be documented in a separate project repository and linked here once finished.
+The completed investigation is documented in a separate project repository, including the analysis process, screenshots, findings, and supporting evidence.
 
 ## Skills Practiced
 
-* SOC investigation and analysis
-* Threat hunting
-* Detection development
-* Evidence collection
-* Indicator identification
-* Incident documentation
-* MITRE ATT&CK mapping
-* Email and phishing analysis
+- SOC investigation and analysis
+- Email and phishing analysis
+- Email-header analysis
+- Base64 decoding
+- File-signature analysis
+- Metadata analysis
+- Evidence collection
+- Indicator identification
+- Incident documentation
 
 ## Projects
 
 | Project               | Type                | Status      |
 | --------------------- | ------------------- | ----------- |
-| [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation) | Email Investigation | In Progress |
+| [The Planet’s Prestige](https://github.com/steveabner/MYDFIR-The-Planets-Prestige-Investigation) | Email Investigation | Completed |
 
 
 ---
